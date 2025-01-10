@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: <a aria-labeled="Link to my LinkedIn profile" href="https://www.linkedin.com/in/jturnerumbc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-- ❤️ I love samples. <a aria-labeled-by="my-sampled-playlist-label" href="https://open.spotify.com/playlist/1iDhsscEwbLJqlC7TiUOhi"></a><span id="my-samples-playlist-label">Here's my spotify playlist of 'em. </span><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" aria-label="spotify-icon" ></img>
+- ❤️ I love samples. <span id="my-samples-playlist-label">Here's my spotify playlist of 'em. </span><a aria-labeled-by="my-sampled-playlist-label" href="https://open.spotify.com/playlist/1iDhsscEwbLJqlC7TiUOhi"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" aria-label="spotify-icon" ></img></a>
 
 <details open>
   
