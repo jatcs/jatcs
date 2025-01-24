@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <img aria-label="jatcs/config icon" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config" />
 </a>
 
-- 💬 Ask me about <a href="https://www.qt.io/" aria-label="QT Framework Website"><img aria-labeled-by="qt-image-label" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a> C++ QT GUI and Bluetooth Low Energy App Development.
+- 💬 Ask me about
+  - playing with `gh` labels and aliases
+  - <a href="https://www.qt.io/" aria-label="QT Framework Website"><img aria-labeled-by="qt-image-label" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a> C++ QT GUI and Bluetooth Low Energy App Development.
 
 
 - 🌱 I’m currently learning <a aria-label="Lua Programming Language (website link)" href="https://www.lua.org/spe.html"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="display: inline; margin: auto;"/></a>
