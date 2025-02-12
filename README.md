@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: LinkedIn (jatcs) <a aria-labeled="Link to my LinkedIn profile" href="https://www.linkedin.com/in/jturnerumbc/"><img alt="LinkedIn Badge Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-- ❤️ I love samples. <span id="my-samples-playlist-label">Here's my spotify playlist of 'em. </span><a aria-labeled-by="my-sampled-playlist-label" href="https://open.spotify.com/playlist/1iDhsscEwbLJqlC7TiUOhi"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" aria-label="spotify-icon" alt="spotify icon"></img></a>
+- ❤️ I love samples. <span id="my-samples-playlist-label">Here's my spotify playlist of 'em. (View on browser to see icon/link)</span><a aria-labeled-by="my-sampled-playlist-label" href="https://open.spotify.com/playlist/1iDhsscEwbLJqlC7TiUOhi"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" aria-label="spotify-icon" alt="spotify icon"></img></a>
 
 <details open>
   
