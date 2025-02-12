@@ -44,5 +44,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jatcs&langs_count=3&hide=css,html,HTML&hide_border=true&cache_seconds=1800)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=jatcs&show_icons=true&theme=transparent&hide_rank)
+
 
 </details>
