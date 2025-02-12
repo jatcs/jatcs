@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `jatcs/config`
 <a href="https://github.com/jatcs/config" aria-label="jatcs/config repository">
-  <img aria-label="jatcs/config icon" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config" />
+  <img aria-label="jatcs/config icon" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config&theme=transparent" />
 </a>
 
 - 💬 Ask me about
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 </summary>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jatcs&langs_count=3&hide=css,html,HTML&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jatcs&langs_count=3&hide=css,html,HTML&hide_border=true&cache_seconds=1800&theme=transparent)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jatcs&show_icons=true&theme=transparent&hide_rank)
+![Stats](https://github-readme-stats.vercel.app/api?username=jatcs&show_icons=true&theme=transparent)
 
 
 </details>
