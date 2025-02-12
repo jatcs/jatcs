@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on `jatcs/config`
-<a href="https://github.com/jatcs/config" aria-label="jatcs/config repository">
-  <img aria-label="jatcs/config icon" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config&theme=transparent" />
-</a>
+  
+![jatcs/config preview](https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config&theme=transparent)
 
 - 💬 Ask me about
   - playing with `gh` labels and aliases
