@@ -40,10 +40,14 @@ Here are some ideas to get you started:
 
 </summary>
 
-
+## jatcs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jatcs&langs_count=3&hide=css,html,HTML&hide_border=true&cache_seconds=1800&theme=transparent)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jatcs&show_icons=true&theme=transparent)
 
+## LT69018 (school account)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=LT69018&langs_count=3&hide=css,html,HTML&hide_border=true&cache_seconds=1800&theme=transparent)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=LT69018&show_icons=true&theme=transparent)
 
 </details>
