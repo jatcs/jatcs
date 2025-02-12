@@ -23,10 +23,11 @@ Here are some ideas to get you started:
   - <a href="https://www.qt.io/" aria-label="QT Framework Website"><img aria-labeled-by="qt-image-label" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a> C++ QT GUI and Bluetooth Low Energy App Development.
 
 
-- 🌱 I’m currently learning Lua
-
+- 🌱 I’m currently learning
+  - Lua
 <a aria-label="Lua Programming Language (website link)" href="https://www.lua.org/spe.html"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="display: inline; margin: auto;"/></a>
-
+  - Go
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" alt="Go Programming Language Icon" aria-label="Go Programming Language Icon"/></a>
   
 - 📫 How to reach me: LinkedIn (jatcs) <a aria-labeled="Link to my LinkedIn profile" href="https://www.linkedin.com/in/jturnerumbc/"><img alt="LinkedIn Badge Link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
