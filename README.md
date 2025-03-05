@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![jatcs/config preview](https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config&theme=transparent)
 
 - 💬 Ask me about
+  - tutoring for Python, C++, or Javascript (I TA'ed for 3 years!)
   - playing with `gh` labels and aliases
   - <a href="https://www.qt.io/" aria-label="QT Framework Website"><img aria-labeled-by="qt-image-label" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/></a> C++ QT GUI and Bluetooth Low Energy App Development.
 
