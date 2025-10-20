@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on `jatcs/config`
+- 🔭 I’m currently working on `jatcs/jatcs.github.io`
   
-![jatcs/config preview](https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=config&theme=transparent)
+![jatcs/jatcs.github.io preview](https://github-readme-stats.vercel.app/api/pin/?username=jatcs&repo=jatcs.github.io&theme=transparent)
 
 - 💬 Ask me about
   - tutoring for Python, C++, or Javascript (I TA'ed for 3 years!)
